@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220" height="75" version="1.1" viewBox="0 0 220 75" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient929-5-9-8" x1="100" x2="100" y1="1147.5" y2="1137.5" gradientTransform="translate(-160 -987.52)" gradientUnits="userSpaceOnUse" xlink:href="#shadow"/>
+  <linearGradient id="shadow">
+   <stop stop-opacity=".6" offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient905" cx="95" cy="15" r="5" gradientTransform="matrix(-1.8302e-5 -2 2 7.2323e-7 130 205)" gradientUnits="userSpaceOnUse" xlink:href="#shadow"/>
+  <linearGradient id="linearGradient929-5-9" x1="100" x2="100" y1="1147.5" y2="1137.5" gradientTransform="translate(-305 -1212.5)" gradientUnits="userSpaceOnUse" xlink:href="#shadow"/>
+  <linearGradient id="linearGradient929-5" x1="100" x2="100" y1="1147.5" y2="1137.5" gradientTransform="translate(-80 -1357.5)" gradientUnits="userSpaceOnUse" xlink:href="#shadow"/>
+  <linearGradient id="linearGradient929" x1="100" x2="100" y1="1147.5" y2="1137.5" gradientTransform="translate(65 -1132.5)" gradientUnits="userSpaceOnUse" xlink:href="#shadow"/>
+  <radialGradient id="radialGradient905-6-1-6" cx="95" cy="15" r="5" gradientTransform="matrix(-2 1.8302e-5 7.2323e-7 -2 350 94.998)" gradientUnits="userSpaceOnUse" xlink:href="#shadow"/>
+  <radialGradient id="radialGradient905-6-1" cx="95" cy="15" r="5" gradientTransform="matrix(1.8302e-5 2 -2 -7.2323e-7 240 -125)" gradientUnits="userSpaceOnUse" xlink:href="#shadow"/>
+  <radialGradient id="radialGradient905-6" cx="95" cy="15" r="5" gradientTransform="matrix(2 -1.8302e-5 -7.2323e-7 2 20 -14.998)" gradientUnits="userSpaceOnUse" xlink:href="#shadow"/>
+ </defs>
+ <g transform="translate(0 -1.4355e-5)">
+  <path id="shadow-topright" d="m220 5h-10v5c2.77 0 5 2.23 5 5h5z" fill="url(#radialGradient905-6)"/>
+  <path id="shadow-bottomright" d="m220 75v-10h-5c0 2.77-2.23 5-5 5v5z" fill="url(#radialGradient905-6-1)"/>
+  <path id="shadow-bottomleft" d="m150 75h10v-5c-2.77 0-5-2.23-5-5h-5z" fill="url(#radialGradient905-6-1-6)"/>
+  <path id="shadow-topleft" d="m150 5v10h5c0-2.77 2.23-5 5-5v-5z" fill="url(#radialGradient905)"/>
+  <g id="shadow-bottom">
+   <rect x="160" y="65" width="50" height="10" fill="none"/>
+   <rect transform="scale(-1)" x="-210" y="-75" width="50" height="5" fill="url(#linearGradient929-5-9)"/>
+  </g>
+  <g id="shadow-right">
+   <rect x="210" y="15" width="10" height="50" fill="none"/>
+   <rect transform="rotate(90)" x="15" y="-220" width="50" height="5" fill="url(#linearGradient929-5)"/>
+  </g>
+  <g id="shadow-top">
+   <rect x="160" y="5.0001" width="50" height="10" fill="none"/>
+   <rect x="160" y="5.0001" width="50" height="5" fill="url(#linearGradient929)"/>
+  </g>
+  <g id="shadow-left">
+   <rect x="150" y="15" width="10" height="50" fill="none"/>
+   <rect transform="rotate(-90)" x="-65" y="150" width="50" height="5" fill="url(#linearGradient929-5-9-8)"/>
+  </g>
+  <rect id="shadow-center" x="160" y="15" width="50" height="50" opacity="0" stroke-width=".33149"/>
+  <rect id="mask-center" x="85" y="15" width="50" height="50"/>
+  <path id="mask-topleft" d="m85 15v-5c-2.77 0-5 2.23-5 5z"/>
+  <path id="mask-topright" d="m135 15h5c0-2.77-2.23-5-5-5z"/>
+  <path id="mask-bottomright" d="m135 65v5c2.77 0 5-2.23 5-5z"/>
+  <path id="mask-bottomleft" d="m85 65h-5c0 2.77 2.23 5 5 5z"/>
+  <rect id="mask-top" x="85" y="10" width="50" height="5"/>
+  <rect id="mask-right" transform="rotate(90)" x="15" y="-140" width="50" height="5"/>
+  <rect id="mask-bottom" transform="scale(-1)" x="-135" y="-70" width="50" height="5"/>
+  <rect id="mask-left" transform="rotate(-90)" x="-65" y="80" width="50" height="5"/>
+ </g>
+ <g transform="translate(0 -1.4355e-5)" fill="#1e1e20">
+  <rect id="center" x="15" y="15" width="50" height="50" opacity=".8"/>
+  <path id="topright" d="m65 15h5c0-2.77-2.23-5-5-5z" opacity=".8"/>
+  <path id="bottomright" d="m65 65v5c2.77 0 5-2.23 5-5z" opacity=".8"/>
+  <path id="bottomleft" d="m15 65h-5c0 2.77 2.23 5 5 5z" opacity=".8"/>
+  <rect id="top" x="15" y="10" width="50" height="5" opacity=".8"/>
+  <rect id="right" transform="rotate(90)" x="15" y="-70" width="50" height="5" opacity=".8"/>
+  <rect id="bottom" transform="scale(-1)" x="-65" y="-70" width="50" height="5" opacity=".8"/>
+  <path id="topleft" d="m15 15v-5c-2.77 0-5 2.23-5 5z" opacity=".8"/>
+  <rect id="left" transform="rotate(-90)" x="-65" y="10" width="50" height="5" opacity=".8"/>
+ </g>
+ <g transform="translate(0 -1022.5)">
+  <rect id="hint-tile-center" y="1022.5" width="5" height="5" fill="#0f0"/>
+  <rect id="hint-top-margin" x="39" y="1037.5" width="2" height="5" fill="#f0f"/>
+  <rect id="hint-right-margin" transform="rotate(90)" x="1061.5" y="-65" width="2" height="5" fill="#f0f"/>
+  <rect id="hint-bottom-margin" transform="scale(-1)" x="-41" y="-1087.5" width="2" height="5" fill="#f0f"/>
+  <rect id="hint-left-margin" transform="rotate(-90)" x="-1063.5" y="15" width="2" height="5" fill="#f0f"/>
+  <rect id="shadow-hint-top-margin" transform="translate(0 1022.5)" x="184" y="5" width="2" height="5" fill="#f0f"/>
+  <rect id="shadow-hint-right-margin" transform="rotate(90 -511.26 511.26)" x="39" y="-220" width="2" height="5" fill="#f0f"/>
+  <rect id="shadow-hint-bottom-margin" transform="rotate(180 0 511.26)" x="-186" y="-75" width="2" height="5" fill="#f0f"/>
+  <rect id="shadow-hint-left-margin" transform="rotate(-90 511.26 511.26)" x="-41" y="150" width="2" height="5" fill="#f0f"/>
+  <rect id="shadow-hint-top-inset" x="188" y="1027.5" width="2" height="5" fill="#0f0"/>
+  <rect id="shadow-hint-bottom-inset" x="188" y="1092.5" width="2" height="5" fill="#0f0"/>
+  <rect id="shadow-hint-right-inset" transform="rotate(90)" x="1065.5" y="-220" width="2" height="5" fill="#0f0"/>
+  <rect id="shadow-hint-left-inset" transform="rotate(90)" x="1065.5" y="-155" width="2" height="5" fill="#0f0"/>
+  <rect id="hint-top-inset" x="39" y="1027.5" width="2" height="1e-6" fill="#0f0"/>
+  <rect id="hint-right-inset" transform="rotate(90)" x="1061.5" y="-70" width="2" height="1e-6" fill="#0f0"/>
+  <rect id="hint-bottom-inset" x="39" y="1092.5" width="2" height="1e-6" fill="#0f0"/>
+  <rect id="hint-left-inset" transform="rotate(90)" x="1061.5" y="-10" width="2" height="1e-6" fill="#0f0"/>
+ </g>
+</svg>

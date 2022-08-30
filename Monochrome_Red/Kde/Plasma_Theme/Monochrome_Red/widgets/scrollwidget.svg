@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="123.84" height="124.82" version="1.1" viewBox="0 0 123.84 124.82" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-1 -996.7)">
+  <g id="border-top" transform="matrix(.14444 0 0 1 6.3984 894.76)">
+   <rect class="ColorScheme-Text" transform="scale(1,-1)" x="16" y="-109" width="747.71" height="1" color="#31363b" fill="#19191b" opacity=".15"/>
+   <rect transform="scale(1,-1)" x="16" y="-110" width="747.71" height="1" opacity="0"/>
+  </g>
+  <rect id="border-center" x="32.209" y="1028.2" width="64.25" height="61.5" fill-opacity="0" opacity=".6"/>
+  <rect id="border-topleft" transform="scale(-1)" x="-9.582" y="-1005.9" width="8.582" height="9.2107" fill-opacity="0" opacity=".6"/>
+  <rect id="border-bottomleft" transform="scale(-1)" x="-9.582" y="-1121.5" width="8.582" height="9.2107" fill-opacity="0" opacity=".6"/>
+  <rect id="border-topright" transform="scale(-1)" x="-124.84" y="-1005.9" width="8.582" height="9.2107" fill-opacity="0" opacity=".6"/>
+  <rect id="border-bottomright" transform="scale(-1)" x="-124.84" y="-1121.5" width="8.582" height="9.2107" fill-opacity="0" opacity=".6"/>
+  <g id="border-left" transform="matrix(0 -.14444 1 0 -101.44 1117.7)">
+   <rect class="ColorScheme-Text" transform="scale(1,-1)" x="16" y="-109" width="747.71" height="1" color="#31363b" fill="#19191b" opacity=".15"/>
+   <rect transform="scale(1,-1)" x="16" y="-110" width="747.71" height="1" opacity="0"/>
+  </g>
+  <g id="border-bottom" transform="matrix(-.14444 0 0 -1 117.61 1226.3)">
+   <rect class="ColorScheme-Text" transform="scale(1,-1)" x="16" y="-109" width="747.71" height="1" color="#31363b" fill="#19191b" opacity=".15"/>
+   <rect transform="scale(1,-1)" x="16" y="-110" width="747.71" height="1" opacity="0"/>
+  </g>
+  <g id="border-right" transform="matrix(0 .14444 -1 0 226.51 1006.8)">
+   <rect class="ColorScheme-Text" transform="scale(1,-1)" x="16" y="-109" width="747.71" height="1" color="#31363b" fill="#19191b" opacity=".15"/>
+   <rect transform="scale(1,-1)" x="16" y="-110" width="747.71" height="1" opacity="0"/>
+  </g>
+ </g>
+</svg>

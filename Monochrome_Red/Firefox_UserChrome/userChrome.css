@@ -1,0 +1,30 @@
+:root {
+  --sidebar-min-width: 2px;
+  --sidebar-visible-width: 200px;
+}
+
+#sidebar {
+  position: relative !important;
+  min-width: var(--sidebar-min-width) !important;
+  max-width: var(--sidebar-min-width) !important;
+  opacity: 0;
+}
+
+#sidebar-box:hover :-moz-any(#sidebar,#sidebar-header) {
+  min-width: var(--sidebar-visible-width) !important;
+  max-width: var(--sidebar-visible-width) !important;
+  margin-right: calc((var(--sidebar-visible-width) - var(--sidebar-min-width)) * -1) !important;
+  z-index:1;
+  opacity: 1;
+}
+
+#sidebar-header,
+#sidebar-splitter {
+  display: none !important;
+}
+#TabsToolbar {visibility: collapse;}
+#navigator-toolbox { border-bottom: 0px !important; }
+  #nav-bar {
+    box-shadow: none !important;
+    border-top: none !important;
+  }

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <g id="klipper">
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <path style="fill:#fefefe" d="M 24,7 V 3.9999999 H 21 V 7 H 11 V 3.9999999 H 8 V 7 H 5 v 21 h 17.285715 c 1.250307,0 2.449386,-0.50568 3.333472,-1.40592 C 26.50335,25.69392 27,24.47304 27,23.2 V 7 Z m -8,15 h -6 v -3 h 6 z m 6,-6 H 10 v -3 h 12 z"/>
+ </g>
+ <g id="22-22-klipper" transform="translate(27,5)">
+  <rect style="opacity:0.001" width="22" height="22" x="5" y="5"/>
+  <path style="fill:#fefefe" d="M 22,10 V 8 h -2 v 2 H 13 V 8 h -2 v 2 H 9 v 14 h 11.785714 c 0.852483,0 1.670037,-0.33712 2.272822,-0.93728 C 23.661375,22.462613 24,21.648693 24,20.8 V 10 Z m -5,10 h -5 v -2 h 5 z m 4,-4 h -9 v -2 h 9 z"/>
+ </g>
+</svg>

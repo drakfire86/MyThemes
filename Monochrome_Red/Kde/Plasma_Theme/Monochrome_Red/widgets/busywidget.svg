@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130" height="130" version="1.1" viewBox="0 0 130 130" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient5232" x1="46.707" x2="121.71" y1="6.5279" y2="81.528" gradientTransform="translate(23.293 142.17)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#6e6e70" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="stopped" transform="translate(75 -133.7)">
+  <rect x="55" y="133.7" width="130" height="130" fill-opacity="0"/>
+  <path d="m120 148.7c-27.614 0-50 22.386-50 50s22.386 50 50 50c27.614 0 50-22.386 50-50s-22.386-50-50-50zm0 10c22.091 0 40 17.909 40 40s-17.909 40-40 40c-22.091 0-40-17.909-40-40s17.909-40 40-40z" fill="#414143"/>
+ </g>
+ <g id="busywidget" transform="translate(-55 -133.7)">
+  <rect x="55" y="133.7" width="130" height="130" fill-opacity="0"/>
+  <path d="m120 148.7c-27.614 0-50 22.386-50 50s22.386 50 50 50c27.614 0 50-22.386 50-50s-22.386-50-50-50zm0 10c22.091 0 40 17.909 40 40s-17.909 40-40 40c-22.091 0-40-17.909-40-40s17.909-40 40-40z" fill="url(#linearGradient5232)"/>
+ </g>
+ <rect id="hint-rotation-angle" x="-15" y="-15" width="15" height="15" fill="#f0f"/>
+</svg>
