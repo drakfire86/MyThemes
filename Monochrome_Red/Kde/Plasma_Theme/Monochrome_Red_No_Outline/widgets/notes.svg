@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="268" height="132" version="1.1" viewBox="0 0 268 132" xmlns="http://www.w3.org/2000/svg">
+ <rect id="yellow-notes" x="136" y="68" width="64" height="64" rx="2" ry="2" fill="#fc6"/>
+ <rect id="red-notes" x="204" y="68" width="64" height="64" rx="2" ry="2" fill="#f2777a"/>
+ <rect id="orange-notes" width="64" height="64" rx="2" ry="2" fill="#ffad57"/>
+ <rect id="green-notes" x="68" width="64" height="64" rx="2" ry="2" fill="#9c9"/>
+ <rect id="blue-notes" x="136" width="64" height="64" rx="2" ry="2" fill="#69c"/>
+ <rect id="pink-notes" x="204" width="64" height="64" rx="2" ry="2" fill="#c9c"/>
+ <rect id="white-notes" x="68" y="68" width="64" height="64" rx="2" ry="2" fill="#bebec0"/>
+ <rect id="black-notes" y="68" width="64" height="64" rx="2" ry="2" fill="#28282a"/>
+</svg>
