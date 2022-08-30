@@ -1,2 +1,1 @@
-# CustomTheme
-MyThemes
+# Personal Themes
