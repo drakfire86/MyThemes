@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="korgac.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.9439028"
+     inkscape:cx="-3.2100091"
+     inkscape:cy="15.483573"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <g
+     id="22-22-korgac"
+     style="fill:#383e43;fill-opacity:1">
+    <rect
+       style="opacity:0.001;fill:#383e43;fill-opacity:1"
+       width="22"
+       height="22"
+       x="32"
+       y="10"
+       id="rect2" />
+    <path
+       style="fill:#383e43;fill-opacity:1"
+       d="m 42.998047,11.996094 c -4.970563,0 -9,4.029437 -9,9 0,4.970563 4.029437,9 9,9 4.970563,0 9,-4.029437 9,-9 0,-4.970563 -4.029437,-9 -9,-9 z m 0,3 c 3.313708,0 6,2.686292 6,6 0,3.313708 -2.686292,6 -6,6 -3.313708,0 -6,-2.686292 -6,-6 0,-3.313708 2.686292,-6 6,-6 z M 42,16 v 4 2 h 2 4 v -2 h -4 v -4 z"
+       id="path4" />
+  </g>
+  <g
+     id="korgac"
+     style="fill:#383e43;fill-opacity:1">
+    <rect
+       style="opacity:0.001;fill:#383e43;fill-opacity:1"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect7" />
+    <path
+       style="fill:#383e43;fill-opacity:1"
+       d="M 15.5 3 C 8.5964401 3 3 8.5964401 3 15.5 C 3 22.40356 8.5964401 28 15.5 28 C 22.40356 28 28 22.40356 28 15.5 C 28 8.5964401 22.40356 3 15.5 3 z M 15.5 7 C 20.19442 7 24 10.80558 24 15.5 C 24 20.194419 20.19442 24 15.5 24 C 10.805581 24 7 20.194419 7 15.5 C 7 10.80558 10.805581 7 15.5 7 z M 14 9 L 14 14 L 14 17 L 17 17 L 22 17 L 22 14 L 17 14 L 17 9 L 14 9 z"
+       id="path9" />
+  </g>
+</svg>

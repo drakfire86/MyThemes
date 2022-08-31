@@ -1,0 +1,14 @@
+[Wallpaper]
+defaultFileSuffix=.png
+defaultHeight=1080
+defaultWallpaperTheme=
+defaultWidth=1920
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
+
+[AdaptiveTransparency]
+enabled=true

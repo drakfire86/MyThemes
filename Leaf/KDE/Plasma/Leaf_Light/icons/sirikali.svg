@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="sirikali.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="15.887805"
+     inkscape:cx="14.88563"
+     inkscape:cy="16.490635"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <g
+     id="sirikali"
+     style="fill:#383e43;fill-opacity:1">
+    <rect
+       style="opacity:0.001;fill:#383e43;fill-opacity:1"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect2" />
+    <path
+       style="fill:#383e43;fill-opacity:1"
+       d="M 16,2 C 11.567943,2 8,5.5679115 8,10 v 3 H 6.4003906 C 5.6253621,13 5,13.72338 5,14.498047 V 28.599609 C 5,29.374275 5.6253621,30 6.4003906,30 H 25.599609 C 26.374323,30 27,29.374275 27,28.599609 V 14.498047 C 27,13.72338 26.372751,12.950222 25.599609,13 H 24 V 10 C 24,5.5677561 20.431428,2 16,2 Z m 0,3 c 2.937833,0 5,2.178064 5,5.027344 V 13 H 11 V 10.027344 C 11,7.177744 13.061666,5 16,5 Z m 0,12 c 1.656854,0 3,1.343146 3,3 -9.55e-4,1.270521 -0.802141,2.402665 -2,2.826172 V 26 c 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 V 22.824219 C 13.802815,22.400952 13.001782,21.269804 13,20 c 0,-1.656854 1.343146,-3 3,-3 z"
+       id="path4" />
+  </g>
+  <g
+     id="22-22-sirikali"
+     transform="translate(27,5)"
+     style="fill:#383e43;fill-opacity:1">
+    <rect
+       style="opacity:0.001;fill:#383e43;fill-opacity:1"
+       width="22"
+       height="22"
+       x="5"
+       y="5"
+       id="rect7" />
+    <path
+       style="fill:#383e43;fill-opacity:1"
+       d="m 16,8 c -2.6592,0 -3.86691,2.159645 -4,4.923828 V 15 H 10.839843 C 10.374843,15 10,15.454719 10,15.931641 v 7.207031 C 10,23.615595 10.374844,24 10.839843,24 H 21.160156 C 21.625156,24 22,23.615595 22,23.138672 V 15.931641 C 22,15.454719 21.625156,15 21.160156,15 H 20 V 12.923828 C 20,10.196443 18.6592,8 16,8 Z m 0,2 c 1.385,0 2,1.330644 2,2.984375 V 15 H 14 V 12.984375 C 14,11.330644 14.615,10 16,10 Z m 0,7 c 1.104568,0 2,0.91789 2,2.050781 -9.29e-4,0.740636 -0.391682,1.408495 -1,1.769531 V 22 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 V 20.820312 C 14.39169,20.459275 14.000965,19.791417 14,19.050781 14,17.91789 14.895432,17.000001 16,17 Z"
+       id="path9" />
+  </g>
+</svg>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg20"
+   sodipodi:docname="veracrypt.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     id="namedview22"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.8085938"
+     inkscape:cx="-27.23783"
+     inkscape:cy="12.461752"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20" />
+  <g
+     id="22-22-veracrypt"
+     transform="translate(0,-22)"
+     style="fill:#383e43;fill-opacity:1">
+    <rect
+       style="opacity:0.001;fill:#383e43;fill-opacity:1"
+       width="22"
+       height="22"
+       x="0"
+       y="0"
+       id="rect2" />
+    <path
+       style="opacity:0.3;fill:#383e43;fill-opacity:1"
+       d="m 2,3 4.4492188,16 0.2910156,-0.955078 1.6152344,-7.029297 h 0.085937 L 6.3007812,3 Z"
+       id="path4" />
+    <path
+       style="opacity:0.15;fill:#383e43;fill-opacity:1"
+       d="m 12.035877,11.019838 -3.6795694,-0.0049 -1.6153846,7.029384 -0.2923077,0.955077 4.1588307,-7e-6 c 1.687754,-7.318154 1.4288,-7.980154 1.4288,-7.980154 z"
+       id="path6" />
+    <path
+       style="fill:#383e43;fill-opacity:1"
+       d="M 11.038461,3.0000005 8.4394615,11.015539 10.6,19 h 8.631384 L 17.38523,15 h -3.7 L 12.562539,11.015539 13.992923,7 h 3.392307 l 1.846154,-3.9999995 z"
+       id="path8" />
+  </g>
+  <g
+     id="veracrypt"
+     style="fill:#383e43;fill-opacity:1">
+    <rect
+       style="opacity:0.001;fill:#383e43;fill-opacity:1"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect11" />
+    <path
+       style="opacity:0.3;fill:#383e43;fill-opacity:1"
+       d="M 2.9999994,3.9999999 9.7133136,28 10.15242,26.567383 12.589607,16.023438 h 0.129668 L 9.4893398,3.9999999 Z"
+       id="path13" />
+    <path
+       style="opacity:0.15;fill:#383e43;fill-opacity:1"
+       d="m 18.142882,16.029757 -5.55201,-0.0073 -2.437413,10.544075 -0.441056,1.432616 6.275155,-1.1e-5 c 2.54661,-10.977231 2.15588,-11.970231 2.15588,-11.970231 z"
+       id="path15" />
+    <path
+       style="fill:#383e43;fill-opacity:1"
+       d="M 16.637906,4.0000006 12.716341,16.023309 15.976322,28 h 13.023679 l -2.785616,-6 h -5.582836 l -1.694,-5.976691 2.15827,-6.023308 h 5.118566 l 2.785616,-6.0000004 z"
+       id="path17" />
+  </g>
+</svg>

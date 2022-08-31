@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg12"
+   sodipodi:docname="manjaro.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.9439028"
+     inkscape:cx="4.2170708"
+     inkscape:cy="10.322382"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <g
+     id="22-22-manjaro-settings-manager"
+     transform="translate(27,5.0000005)"
+     style="fill:#383e43;fill-opacity:1">
+    <rect
+       style="opacity:0.001;fill:#383e43;fill-opacity:1"
+       width="22"
+       height="22"
+       x="5"
+       y="5"
+       id="rect2" />
+    <path
+       style="fill:#383e43;fill-opacity:1"
+       d="M 9.75,9 C 9.3345,9 9,9.3345 9,9.75 v 12.5 C 9,22.6655 9.352874,22.877807 9.75,23 H 13 V 13 h 5 V 9 Z M 19,9 v 14 h 3.25 C 22.6655,23 23,22.6655 23,22.25 V 9.75 C 23,9.3345 22.6655,9 22.25,9 Z m -5,5 v 9 h 4 v -9 z"
+       id="path4" />
+  </g>
+  <g
+     id="manjaro-settings-manager"
+     style="fill:#383e43;fill-opacity:1">
+    <rect
+       style="opacity:0.001;fill:#383e43;fill-opacity:1"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect7" />
+    <path
+       style="fill:#383e43;fill-opacity:1"
+       d="M 6.1785711,5 C 5.5256426,5 4.9999997,5.5256429 4.9999997,6.1785714 V 25.821429 c 0,0.652929 0.5545163,0.986554 1.1785714,1.178571 H 11 V 11 h 8 V 5 Z M 21,5 v 22 h 4.821428 C 26.474357,27 27,26.474358 27,25.821429 V 6.1785714 C 27,5.5256429 26.474357,5 25.821428,5 Z m -8,8 v 14 h 6 V 13 Z"
+       id="path9" />
+  </g>
+</svg>
