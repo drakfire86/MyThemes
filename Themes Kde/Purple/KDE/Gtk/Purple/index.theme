@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Purple-Dark
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Purple-Dark
+MetacityTheme=Purple-Dark
+IconTheme=Purple
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close

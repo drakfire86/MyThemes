@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="input-keyboard.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="55.625"
+     inkscape:cx="7.4247191"
+     inkscape:cy="8.0089888"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#d8c4f1; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:0.6"
+     class="ColorScheme-Text"
+     d="m 4.2,4.4 c 0,0 -1.2,0 -1.2,1.2 v 4.8 c 0,1.2 1.2,1.2 1.2,1.2 h 6.6 c 0,0 1.2,0 1.2,-1.2 V 5.6 C 12,4.4 10.8,4.4 10.8,4.4 Z m 0.15,1.2 h 0.9 c 0.0831,0 0.15,0.0669 0.15,0.15 v 0.9 C 5.4,6.7331 5.3331,6.8 5.25,6.8 H 4.35 C 4.2669,6.8 4.2,6.7331 4.2,6.65 V 5.75 C 4.2,5.6669 4.2669,5.6 4.35,5.6 Z m 1.8,0 h 0.9 c 0.0831,0 0.15,0.0669 0.15,0.15 v 0.9 C 7.2,6.7331 7.1331,6.8 7.05,6.8 H 6.15 C 6.0669,6.8 6,6.7331 6,6.65 V 5.75 C 6,5.6669 6.0669,5.6 6.15,5.6 Z m 1.8,0 h 0.9 C 8.9331,5.6 9,5.6669 9,5.75 v 0.9 C 9,6.7331 8.9331,6.8 8.85,6.8 H 7.95 C 7.8669,6.8 7.8,6.7331 7.8,6.65 V 5.75 C 7.8,5.6669 7.8669,5.6 7.95,5.6 Z m 1.8,0 h 0.9 c 0.0831,0 0.15,0.0669 0.15,0.15 v 0.9 c 0,0.0831 -0.0669,0.15 -0.15,0.15 H 9.75 C 9.6669,6.8 9.6,6.7331 9.6,6.65 V 5.75 C 9.6,5.6669 9.6669,5.6 9.75,5.6 Z m -5.4,1.8 h 0.9 c 0.0831,0 0.15,0.0669 0.15,0.15 v 0.9 C 5.4,8.5331 5.3331,8.6 5.25,8.6 H 4.35 C 4.2669,8.6 4.2,8.5331 4.2,8.45 V 7.55 C 4.2,7.4669 4.2669,7.4 4.35,7.4 Z m 1.8,0 h 0.9 c 0.0831,0 0.15,0.0669 0.15,0.15 v 0.9 C 7.2,8.5331 7.1331,8.6 7.05,8.6 H 6.15 C 6.0669,8.6 6,8.5331 6,8.45 V 7.55 C 6,7.4669 6.0669,7.4 6.15,7.4 Z m 1.8,0 h 0.9 C 8.9331,7.4 9,7.4669 9,7.55 v 0.9 C 9,8.5331 8.9331,8.6 8.85,8.6 H 7.95 C 7.8669,8.6 7.8,8.5331 7.8,8.45 V 7.55 C 7.8,7.4669 7.8669,7.4 7.95,7.4 Z m 1.8,0 h 0.9 c 0.0831,0 0.15,0.0669 0.15,0.15 v 0.9 c 0,0.0831 -0.0669,0.15 -0.15,0.15 H 9.75 C 9.6669,8.6 9.6,8.5331 9.6,8.45 V 7.55 C 9.6,7.4669 9.6669,7.4 9.75,7.4 Z m -4.2,1.8 h 3.9 c 0.0831,0 0.15,0.0669 0.15,0.15 v 0.9 c 0,0.0831 -0.0669,0.15 -0.15,0.15 H 5.55 C 5.4669,10.4 5.4,10.3331 5.4,10.25 V 9.35 C 5.4,9.2669 5.4669,9.2 5.55,9.2 Z"
+     id="path5" />
+</svg>
