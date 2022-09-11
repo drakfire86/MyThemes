@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Dragon
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Dragon
+MetacityTheme=Dragon
+IconTheme=Dragon-Place
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close
