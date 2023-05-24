@@ -1,0 +1,425 @@
+{
+    "_comments": [
+        "Last update: Jul 28, 2021 (revision 3)",
+        "This file has been converted from: https://github.com/dempfi/ayu",
+        "Also see: https://github.com/ayu-theme"
+    ],
+    "custom-styles": {
+        "ASN.1": {
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "ASP": {
+            "ASP Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            },
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "Alerts": {
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "AsciiDoc": {
+            "Callout": {
+                "selected-text-color": "#787da5",
+                "text-color": "#9ea5d8"
+            },
+            "Emphasized": {
+                "selected-text-color": "#8d94c3",
+                "text-color": "#9ba1d5"
+            },
+            "Emphasized Strong": {
+                "selected-text-color": "#9ba1d5",
+                "text-color": "#9ba2d6"
+            },
+            "List Marker": {
+                "selected-text-color": "#959cce",
+                "text-color": "#9aa1d4"
+            },
+            "Main Title": {
+                "selected-text-color": "#8d93c2",
+                "text-color": "#959dce"
+            },
+            "Normal": {
+                "selected-text-color": "#9aa1d4",
+                "text-color": "#939acb"
+            },
+            "Replacement": {
+                "selected-text-color": "#959cce",
+                "text-color": "#989ed1"
+            },
+            "Strong": {
+                "selected-text-color": "#969dcf",
+                "text-color": "#959cce"
+            },
+            "Subscript": {
+                "selected-text-color": "#9399ca",
+                "text-color": "#959ece"
+            },
+            "Superscript": {
+                "selected-text-color": "#989ed1",
+                "text-color": "#9da4d9"
+            }
+        },
+        "BibTeX": {
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "CSS": {
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            },
+            "Selector Tag": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            },
+            "Unknown Property": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "CartoCSS MML": {
+            "Literal/Folded Block": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "CartoCSS MSS": {
+            "Class": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            },
+            "Layer ID": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            },
+            "Mapnik Symbolizer Parameter": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "CleanCSS": {
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "ColdFusion": {
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "ConTeXt": {
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "DTD": {
+            "Normal": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            },
+            "Other": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "Doxygen": {
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "DoxygenLua": {
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "FTL": {
+            "NormalText": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "G-Code": {
+            "Brackets": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            },
+            "Coordinate": {
+                "selected-text-color": "#959cce"
+            },
+            "G-options": {
+                "selected-text-color": "#959cce"
+            },
+            "G-word": {
+                "text-color": "#959cce"
+            },
+            "Keyword": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            },
+            "M-word": {
+                "selected-text-color": "#959cce"
+            },
+            "M-word (user)": {
+                "selected-text-color": "#959cce"
+            },
+            "Message": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            },
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            },
+            "Param (local)": {
+                "text-color": "#0a5fc7"
+            },
+            "Sub-program": {
+                "text-color": "#b300b3"
+            }
+        },
+        "PLY": {
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "POV-Ray": {
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "R Script": {
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            },
+            "Symbol": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "R documentation": {
+            "NormalText": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            },
+            "RSource": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "RenderMan RIB": {
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "SQL (PostgreSQL)": {
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "STL": {
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "VRML": {
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        },
+        "Wavefront OBJ": {
+            "Normal Text": {
+                "selected-text-color": "#959cce",
+                "text-color": "#959cce"
+            }
+        }
+    },
+    "editor-colors": {
+        "BackgroundColor": "#2e5241",
+        "BracketMatching": "#d9dbdd",
+        "CodeFolding": "#ffe6dc",
+        "CurrentLine": "#274839",
+        "CurrentLineNumber": "#767676",
+        "IconBorder": "#2e5241",
+        "IndentationLine": "#dcdee1",
+        "LineNumbers": "#fbfeff",
+        "MarkBookmark": "#399ee6",
+        "MarkBreakpointActive": "#f07171",
+        "MarkBreakpointDisabled": "#a37acc",
+        "MarkBreakpointReached": "#e6ba7e",
+        "MarkError": "#f51818",
+        "MarkExecution": "#4cbf99",
+        "MarkWarning": "#86b300",
+        "ModifiedLines": "#709ecc",
+        "ReplaceHighlight": "#529674",
+        "SavedLines": "#99bf4d",
+        "SearchHighlight": "#529674",
+        "Separator": "#e0dfdf",
+        "SpellChecking": "#f27983",
+        "TabMarker": "#dcdee1",
+        "TemplateBackground": "#f7f7f7",
+        "TemplateFocusedPlaceholder": "#bec1c6",
+        "TemplatePlaceholder": "#dddfe1",
+        "TemplateReadOnlyPlaceholder": "#ffffff",
+        "TextSelection": "#15281f",
+        "WordWrapMarker": "#e9eaeb"
+    },
+    "metadata": {
+        "name": "Nature",
+        "revision": 1
+    },
+    "text-styles": {
+        "Alert": {
+            "bold": true,
+            "selected-text-color": "#d20f39",
+            "text-color": "#d20f39"
+        },
+        "Annotation": {
+            "selected-text-color": "#df8e1d",
+            "text-color": "#df8e1d"
+        },
+        "Attribute": {
+            "selected-text-color": "#7287fd",
+            "text-color": "#7287fd"
+        },
+        "BaseN": {
+            "selected-text-color": "#d20f39",
+            "text-color": "#d20f39"
+        },
+        "BuiltIn": {
+            "selected-text-color": "#d20f39",
+            "text-color": "#d20f39"
+        },
+        "Char": {
+            "selected-text-color": "#ea76cb",
+            "text-color": "#ea76cb"
+        },
+        "Comment": {
+            "italic": true,
+            "selected-text-color": "#9ca0b0",
+            "text-color": "#9ca0b0"
+        },
+        "CommentVar": {
+            "italic": true,
+            "selected-text-color": "#9ca0b0",
+            "text-color": "#9ca0b0"
+        },
+        "Constant": {
+            "selected-text-color": "#1e66f5",
+            "text-color": "#1e66f5"
+        },
+        "ControlFlow": {
+            "selected-text-color": "#ab8cef",
+            "text-color": "#ab8cef"
+        },
+        "DataType": {
+            "selected-text-color": "#ab8cef",
+            "text-color": "#ab8cef"
+        },
+        "DecVal": {
+            "selected-text-color": "#fe640b",
+            "text-color": "#fe640b"
+        },
+        "Documentation": {
+            "selected-text-color": "#d20f39",
+            "text-color": "#d20f39"
+        },
+        "Error": {
+            "selected-text-color": "#d20f39",
+            "text-color": "#d20f39",
+            "underline": true
+        },
+        "Extension": {
+            "selected-text-color": "#1e66f5",
+            "text-color": "#1e66f5"
+        },
+        "Float": {
+            "selected-text-color": "#fe640b",
+            "text-color": "#fe640b"
+        },
+        "Function": {
+            "selected-text-color": "#1e66f5",
+            "text-color": "#1e66f5"
+        },
+        "Import": {
+            "selected-text-color": "#6ba06a",
+            "text-color": "#6ba06a"
+        },
+        "Information": {
+            "selected-text-color": "#fe640b",
+            "text-color": "#fe640b"
+        },
+        "Keyword": {
+            "selected-text-color": "#ab8eef",
+            "text-color": "#ab8eef"
+        },
+        "Normal": {
+            "selected-text-color": "#fbfeff",
+            "text-color": "#fbfeff"
+        },
+        "Operator": {
+            "selected-text-color": "#04a5e5",
+            "text-color": "#04a5e5"
+        },
+        "Others": {
+            "selected-text-color": "#fe640b",
+            "text-color": "#fe640b"
+        },
+        "Preprocessor": {
+            "selected-text-color": "#ea76cb",
+            "text-color": "#ea76cb"
+        },
+        "RegionMarker": {
+            "italic": true,
+            "selected-text-color": "#9ca0b0",
+            "text-color": "#9ca0b0"
+        },
+        "SpecialChar": {
+            "selected-text-color": "#ea76cb",
+            "text-color": "#ea76cb"
+        },
+        "SpecialString": {
+            "selected-text-color": "#d20f39",
+            "text-color": "#d20f39"
+        },
+        "String": {
+            "selected-text-color": "#6ba06a",
+            "text-color": "#6ba06a"
+        },
+        "Variable": {
+            "selected-text-color": "#ea76cb",
+            "text-color": "#ea76cb"
+        },
+        "VerbatimString": {
+            "selected-text-color": "#d20f39",
+            "text-color": "#d20f39"
+        },
+        "Warning": {
+            "selected-text-color": "#fe640b",
+            "text-color": "#fe640b"
+        }
+    }
+}

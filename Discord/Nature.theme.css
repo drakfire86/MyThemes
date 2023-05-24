@@ -1,0 +1,48 @@
+/**
+ * @name Nature
+ * @description A Elegant color scheme.
+ * @author drakfire based on midnight by refact0r
+ * @version 1.0
+*/
+
+:root {--link-color: hsl(190, 70%, 60%); --accent-color: hsl(190, 60%, 50%); --accent-background: hsl(190, 60%, 40%);/ --accent-background-2: hsl(190, 60%, 30%); --accent-background-3: hsl(190, 60%, 20%); --mention-modifier: hsla(190, 60%, 50%, 0.1); --mention-hover-modifier: hsla(190, 60%, 50%, 0.05); --bright-text: hsl(220, 40%, 90%); --header-text: hsl(220, 30%, 70%); --primary-text: hsl(220, 15%, 60%); --secondary-text: hsl(220, 15%, 40%); --muted-text: hsl(220, 15%, 24%); --muted-background-hover: hsl(220, 15%, 20%); --muted-background-active: hsl(220, 15%, 16%); --secondary-background: hsl(220, 15%, 13%); --primary-background: hsl(220, 15%, 10%); --hover-modifier: hsl(230, 20%, 40%, 0.1); --active-modifier: hsl(220, 20%, 40%, 0.2); --message-hover-modifier: hsl(220, 0%, 0%, 0.1); --roundness: 16px; } :root.theme-dark, .theme-dark, .default-colors, .theme-light { --primary-130: var(--header-text); --primary-230: var(--primary-text); --primary-330: var(--secondary-text); --primary-360: var(--secondary-text); --primary-400: var(--secondary-text); --primary-430: var(--muted-text); --primary-500: var(--muted-text); --primary-530: var(--muted-text); --primary-560: var(--secondary-background); --primary-600: var(--primary-background); --primary-645: var(--primary-background); --primary-630: var(--primary-background); --primary-660: var(--primary-background); --primary-700: var(--secondary-background); --primary-730: var(--secondary-background); --primary-800: var(--secondary-background); --white-500: var(--bright-text); --blue-345: var(--link-color); --brand-260: var(--accent-color); --brand-360: var(--accent-color); --brand-500: var(--accent-background); --brand-560: var(--accent-background-2); --brand-600: var(--accent-background-3); --brand-experiment-15a: var(--mention-modifier); --background-modifier-hover: var(--hover-modifier); --background-modifier-active: var(--active-modifier); --background-modifier-selected: var(--active-modifier); --background-modifier-accent: var(--active-modifier); --background-message-hover: var(--message-hover-modifier); --background-mentioned: var(--mention-modifier); --background-mentioned-hover: var(--mention-hover-modifier); --mention-background: var(--mention-modifier); --button-secondary-background-hover: var(--muted-background-hover); --button-secondary-background-active: var(--muted-background-active); --modal-footer-background: var(--primary-background); --search-popout-option-fade: none; --search-popout-option-fade-hover: none; } .mentioned-Tre-dv:before, .container-1QtPKm.default-colors:checked { background-color: #c2d2ab !important; } .expandedFolderIconWrapper-3RwQpD svg, .strikethrough-2Kl6HF { color: var(--accent-color) !important; } .divider-2rZFJK { --divider-color: var(--accent-color); } .divider-AZrXIA { background: none; } .iconBadge-3Mmg92 { background-color: var(--accent-color) !important; } .mainCard-3KBsBI, .container-3i3IzO, .embedFull-1HGV2S, .scrollbarGhostHairline-2LpzZ9.scrollbar-3vVt8d.codeView-12LUIl, .attachment-1PZZB2, .footer-GXWBBp, .textContainer-36wgKK, .hoverButtonGroup-2yZIzC, .embedCard-bDyD5S, .markup-eYLPri code, .vc-plugins-card, .prompt-1sE27N, .channelRow-4X_3fi, .profileCard-2gVmvm, .reaction-3vwAF2 { background-color: var(--secondary-background) !important; } .theme-dark .container-2IKOsH, .theme-dark .header-3xB4vB, .searchHeader-1r_ZSh, .wrapper-22rqw6, .optionButtonWrapper-2lbogO.selected-KQBgNS { background-color: var(--primary-background); } .root-1CAIjD { background-color: var(--primary-background); } .defaultColor-1GKx81 { color: var(--header-text); } .container-x8Y1ix { background-color: var(--primary-background); } .defaultColor-1EVLSt, .closeButton-2ygCkj:hover { color: var(--primary-text); } .header-1c1AhF .subtitle-3m-md1 { color: var(--secondary-text) !important; } .closeButton-2ygCkj { color: var(--secondary-text); } .emojiButtonNormal-35P0_i .sprite-2lxwfc { filter: grayscale(100%) brightness(40%) sepia(0.9) hue-rotate(180deg) !important; } .chat-2ZfjoI { background: none !important; } .chatContent-3KubbW { background-color: var(--primary-background) !important; } .title-31SJ6t { background: none !important; } .membersWrap-3NUR2t::before, .chatContent-3KubbW::before, .searchResultsWrap-5RVOkx::before, .profilePanel-2PWEok::before, .container-3wLKDe::before { content: ''; position: absolute; margin-top: -48px; background-color: var(--primary-background); width: 100%; height: 48px; border-radius: var(--roundness) var(--roundness) 0 0; } .searchResultsWrap-5RVOkx { overflow: visible; } .container-2cd8Mz, .content-1SgpWY .sidebar-1tnWFu, .callContainer-HtHELf, .container-3XgAHv, .chat-2ZfjoI, .pageWrapper-2PwDoS, .root-1CAIjD:has(.container-1Lk8p7) { border-radius: var(--roundness) !important; overflow: hidden; } .chatContent-3KubbW, .container-2o3qEW, .members-3WRCEx, .container-3wLKDe, .profilePanel-2PWEok, .userPanelOuter-xc-WYi, .userPanelInnerThemed-2xZFjl, .searchResultsWrap-5RVOkx { border-radius: 0 0 var(--roundness) var(--roundness); } .iconWrapper-2awDjA[aria-label='Help'] { display: none; } .iconWrapper-2awDjA[aria-label*='Member List'] { order: 1; } .search-39IXmY { order: 1; margin-left: 34px; } .searchBar-jGtisZ { width: 208px !important; padding: 0px 2px; } .searchResultsWrap-5RVOkx { width: 476px; } .iconWrapper-2awDjA[aria-label='Hide User Profile'] { margin-left: 34px; } .profilePanel-2PWEok { width: 340px; } .base-2jDfDU { padding: 0px 10px 10px 0; } .container-2cd8Mz, .chat-2ZfjoI, .applicationStore-2nk7Lo, .pageWrapper-2PwDoS { margin-left: 10px; } .content-1jQy2l { gap: 10px; } .resizeHandle-PBRzPC { width: 10px; } .wrapper-1gVUIN.fullScreen-KhZZcz .callContainer-HtHELf, .wrapper-1gVUIN.fullScreen-KhZZcz .channelChatWrapper-35N3nR { margin-top: 10px; } .content-1jQy2l::before, .tabBody-2dgbAs::before, .chat-1-OBC7::before, .headerBar-1dSpQr:before, .searchBar-3TnChZ, .header-3OsQeK, .header-uVCAlo, .header-2TLOnc, .header-11eigE { box-shadow: none !important; } .children-3xh0VB:after { background: none !important; } .markup-eYLPri code.inline, .itemCard-3Etziu, .container-1zzFcN { border: none !important; } .footerSeparator-3U8YsT, .rootWithShadow-2hdL2J { -webkit-box-shadow: none !important; box-shadow: none !important; } .scrollerBase-_bVAAt:hover::-webkit-scrollbar-thumb, .scrollerBase-_bVAAt:hover::-webkit-scrollbar-track { visibility: visible; } .scrollerBase-_bVAAt::-webkit-scrollbar-thumb, .scrollerBase-_bVAAt::-webkit-scrollbar-track { visibility: hidden; } .artwork-L5TAwQ { filter: saturate(0.2) hue-rotate(-20deg) brightness(0.15); } .wordmarkWindows-2dq6rw svg { display: none; } .wordmarkWindows-2dq6rw::after { content: 'Midnight'; display: block; position: relative; width: 200px; height: 16px; line-height: 16px; font-family: var(--font-headline); font-size: 11px; font-weight: 600; color: var(--muted-text); } .withFrame-2dL45i { height: 20px; } .typeWindows-2-g3UY .winButton-3UMjdg > svg { display: none; } .typeWindows-2-g3UY .winButton-3UMjdg { top: 0; width: 12px; height: 12px; margin: 2px 12px 0px 0px; border-radius: 12px; } .typeWindows-2-g3UY .winButton-3UMjdg::after { content: ''; height: 12px; width: 12px; border-radius: 12px; } .typeWindows-2-g3UY .winButtonClose-3Q8ZH5::after { background-color: hsl(0, 50%, 50%) !important; } .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(3)::after { background-color: hsl(120, 50%, 50%) !important; } .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(4)::after { background-color: hsl(50, 50%, 50%) !important; } .typeWindows-2-g3UY > div:hover::after { transform: scale(1.1); } .typeWindows-2-g3UY > div:active::after { transform: scale(1); }.botTagRegular-kpctgU { color: #000000; } .label-3CEiKJ { color: #fff; } .base-2jDfDU { padding: 7px 0px 7px 9px; }
+
+
+:root {
+	--link-color: hsl(190, 70%, 60%);
+	--accent-color: #c2d2ab;
+	--accent-background: #1b1717;
+	--accent-background-2: #192f25;
+	--accent-background-3: #101e18;
+	--mention-modifier: #213d30;
+	--mention-hover-modifier: #1a3026;
+	--bright-text: #c2d2ab;
+	--header-text: #c2d2ab;
+	--primary-text: #fbfeff;
+	--secondary-text: #fbfeff;
+	--muted-text: #8d8d8d;
+	--muted-background-hover: hsl(220, 15%, 20%);
+	--muted-background-active: hsl(220, 15%, 16%);
+	--secondary-background: #274839;
+	--primary-background: #2e5241;
+	--hover-modifier: hsl(230, 20%, 40%, 0.1);
+	--active-modifier: hsl(220, 20%, 40%, 0.2);
+	--message-hover-modifier: hsl(220, 0%, 0%, 0.1);
+	--roundness: 16px;
+	--green-360: #1b1717;
+	--bg-overlay-selected: #1e382c;
+	--interactive-muted: #1e382c;
+}
+
+.circleIconButton-1VxDrg {
+    color: #fff !important;
+}
+
+.mainCard-3KBsBI, .container-3i3IzO, .embedFull-1HGV2S, .scrollbarGhostHairline-2LpzZ9.scrollbar-3vVt8d.codeView-12LUIl, .attachment-1PZZB2, .footer-GXWBBp, .textContainer-36wgKK, .hoverButtonGroup-2yZIzC, .embedCard-bDyD5S, .markup-eYLPri code, .vc-plugins-card, .prompt-1sE27N, .channelRow-4X_3fi, .profileCard-2gVmvm, .reaction-3vwAF2 {
+    background-color: #274839 !important;
+	border-color: #c2d2ab !important;
+}
+
+.communityInfoPill-2Mll66 {
+    background: #1e382c;
+}
